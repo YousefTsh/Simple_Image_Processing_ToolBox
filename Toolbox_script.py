@@ -1,6 +1,3 @@
-# Yousef Taher Nageeb Shouman
-# Sec2
-# Computer Department
 # Image Processing Tool Box
 
 
